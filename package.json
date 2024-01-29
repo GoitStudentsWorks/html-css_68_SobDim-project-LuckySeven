@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "bcon68-lucky-seven",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-LuckySeven/",
+    "build": "vite build --base=/html-css_68_SobDim-project-LuckySeven/",
     "preview": "vite preview"
   },
   "devDependencies": {
